@@ -1,9 +1,8 @@
 # multiple-choice-test-program
 ## Đồ án môn: Lập Trình Hướng Đối Tượng
-
 ## Đề tài: Chương Trình Trắc Nghiệm
-
 ## Ngôn ngữ: C#
+
 ## Thành viên:
 | Họ Tên                             |
 | :------------------------------------ |
